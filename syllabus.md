@@ -148,8 +148,8 @@ The topics to be covered in the course include:
 {: .no_toc }
 You should meet the following requirements to take this class:
 
-1. __Prerequisite: CS 2150 with a grade of C- or higher.__  Students that do not meet this prerequisite may be dropped at any point from the class.  It is the student's responsibility to check this prerequisite and/or speak with the instructor ASAP. We’ll assume you have mastered the material in the courses leading up to CS 2150 also, which includes software developments skills in Java and C++.
-2. Willing to attend in-person lectures __or__ keep up with online course lectures via Zoom / YouTube.
+1. __Prerequisite: CS 2150 --OR -- CS 3140 with a grade of C- or higher.__  Students that do not meet this prerequisite may be dropped at any point from the class.  It is the student's responsibility to check this prerequisite and/or speak with the instructor ASAP. We’ll assume you have mastered the material in the courses leading up to CS 2150 also, which includes software developments skills in Java and C++.
+2. Willing to attend in-person lectures.
 3. Participate to the best of your ability in discussions on Piazza and Discord.
 4. Be a meaningful contributor to your project team.
 5. You will be expected to learn programming languages and platforms on your own in this class! If you don’t feel comfortable with this, please talk to the staff as soon as possible!
