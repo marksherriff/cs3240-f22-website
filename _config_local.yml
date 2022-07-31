@@ -35,6 +35,14 @@ plugins:
 
 logo: "/assets/images/cs3240-logo-200.png"
 
+# Aux links for the upper right navigation
+aux_links:
+  "CS 3240 Coursepack":
+    - "//www.cs3240.org"
+
+# Makes Aux links open in a new tab. Default is false
+aux_links_new_tab: true
+
 search_enabled: true
 
 search:
