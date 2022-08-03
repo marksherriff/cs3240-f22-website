@@ -75,7 +75,7 @@ More information about joining our Discord server will be available in Collab at
 ### Piazza
 {: .no_toc }
 
-Piazza @ [https://piazza.com/class/ksgd48h3znp1p](https://piazza.com/class/ksgd48h3znp1p)    
+Piazza @ [https://piazza.com/class/l6cn064vjmpfn](https://piazza.com/class/l6cn064vjmpfn)    
 
 Think of Discord as stopping by for a quick chat, for a meeting, or for hanging out, while Piazza is for submitting significant help requests or questions.
 
@@ -113,7 +113,7 @@ We will not be using email for:
 * Lecture chat -> Discord
 * Team meetings -> Discord
 * Online office hours -> Discord
-* Technical questions (python, django, heroku, etc.) -> Piazza or TA office hours (NOTE: NOT professor office hours!)
+* Technical questions (python, django, heroku, etc.) -> Piazza or TA office hours
 * Project requriements -> Piazza or office hours
 * Regrades -> Gradescope (office hours only if issues with Gradescope)
 * Personal issues -> Email your professor
