@@ -155,7 +155,18 @@ You should meet the following requirements to take this class:
 5. You will be expected to learn programming languages and platforms on your own in this class! If you don’t feel comfortable with this, please talk to the staff as soon as possible!
 
 ## Assessment and Grading
-Assessment in this course is different than most courses. As the purpose of this class is for you to gain experience as a software developer working in a team on a larger-scale project, your grade in this course will be based on experience points (XP). Every student begins the course with 0 XP.  As you complete assessments, work on the project, and complete Guided Practice activities, you will earn XP.  Some assessments will have a way to retake or resubmit to earn some of the XP that was not earned on the first attempt.  Please see individual assessments for more information regarding how this mechanic works.
+We will utilize a positive-reinforcement grading policy in this course. As the purpose of this class is for you to gain experience as a software developer working in a team on a larger-scale project, your grade in this course will be based on experience points (XP). Every student begins the course with 0 XP.  As you complete assessments, work on the project, and complete Guided Practice activities, you will earn XP.  Some assessments will have a way to retake or resubmit to earn some of the XP that was not earned on the first attempt.  Please see individual assessments for more information regarding how this mechanic works.
+
+| Assessment	| Who	| Instances	| Max XP 	| Max XP Avail |
+|:--------------|:-----|:---|:-----|:-----|
+|Guided Practice |	Small Group with some Individual |	10 |	5 |	50 |
+|Team Role Document |	Individual |	1 |	100 |	100 |
+|Team & Staff Evaluation |	Individual |	1 |	100 |	100 |
+|Quizzes |	Individual |	6 |	50 |	300 |
+|Sprints |	Team |	6 |	25 |	150 |
+|Final Project (Release Version) |	Team |	1 |	250 |	250 |
+|Django Practice Assessment |	Individual |	1 |	50 |	50 |
+| __Total Course XP__ | | | | 1000 |
 
 ## Class Management
 
