@@ -159,14 +159,24 @@ We will utilize a positive-reinforcement grading policy in this course. As the p
 
 | Assessment	| Who	| Instances	| Max XP 	| Max XP Avail |
 |:--------------|:-----|:---|:-----|:-----|
-|Guided Practice |	Small Group with some Individual |	10 |	5 |	50 |
+|Guided Practice |	Small Groups or Individual |	10 |	5 |	50 |
 |Team Role Document |	Individual |	1 |	100 |	100 |
 |Team & Staff Evaluation |	Individual |	1 |	100 |	100 |
-|Quizzes |	Individual |	6 |	50 |	300 |
-|Sprints |	Team |	6 |	25 |	150 |
-|Final Project (Release Version) |	Team |	1 |	250 |	250 |
-|Django Practice Assessment |	Individual |	1 |	50 |	50 |
+|Quizzes |	Individual |	3 |	100 |	300 |
+|Project Sprints |	Team |	6 |	25 |	150 |
+|Project (Beta Version) | Team | 1 | 100 | 100 |
+|Project (Final Version) |	Team |	1 |	150 |	150 |
+|Django Practice |	Individual |	1 |	50 |	50 |
 | __Total Course XP__ | | | | 1000 |
+
+### Assessment Notes
+{: .no_toc }
+
+* Your one lowest GP is converted to 5 XP at the end of the semester (this constitutes one free skip).
+* Each of the five team roles has a different document to submit that demonstrates an aspect of the position.
+* Your evaluation score is based upon several intermediate evals from teammates throughout the semester, a final evaluation from teammates, and the opinion of the staff.
+* There are 3 total quizzes, which will be taken in-person during lecture. Students can earn back up to 100 XP from missed quiz questions on the final exam.
+* There are 6 sprints during the project.  At each sprint check, the TAs will determine if your team has met the requirements for the project up to that point.  
 
 ## Class Management
 
