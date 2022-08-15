@@ -33,11 +33,11 @@ Website: [http://www.cs.virginia.edu/~pm8fc/](http://www.cs.virginia.edu/~pm8fc/
 
 __Instructor:__ Prof. Mark Sherriff   
 Office: Rice 400   
-Office Hours: TBD  
+Office Hours: Tuesdays, 11:00 AM-12:30 PM and Wednesdays, 9:00 AM-10:30 AM    
 Email: [sherriff@virginia.edu](mailto:sherriff@virginia.edu)    
 Website: [http://marksherriff.com](http://marksherriff.com)    
 
-__Teaching Assistants:__ TBD  
+__Teaching Assistants:__ Benny Bigler-Wang, Wentao Chen, Riley Hartung, Dylan Herbig, Teagan Le, Alan Li, Andrew Nguyen, Robert Owens, Harshil Pareek, Vinny Peng, Srimanth Tangedipalli, Anjesa Terstena, Alex White, Anna Williamson, Haowen Xu, Sonya Yeprem  
 
 ## Communication and Logistics
 
@@ -172,7 +172,7 @@ We will utilize a positive-reinforcement grading policy in this course. As the p
 ### Assessment Notes
 {: .no_toc }
 
-* Your one lowest GP is converted to 5 XP at the end of the semester (this constitutes one free skip).
+* Your one lowest GP is converted to 5 XP at the end of the semester.  This should primarily be used in case you are ill or must miss class for some other reason.  Multiple missed GPs cannot be made up.  
 * Each of the five team roles has a different document to submit that demonstrates an aspect of the position.
 * Your evaluation score is based upon several intermediate evals from teammates throughout the semester, a final evaluation from teammates, and the opinion of the staff.
 * There are 3 total quizzes, which will be taken in-person during lecture. Students can earn back up to 100 XP from missed quiz questions on the final exam.
@@ -186,14 +186,15 @@ You are expected to work as a member of your group in this course and cooperate 
 
 ### Attendance
 {: .no_toc }
-* No attendance will be taken during the live lectures sessions on Tuesdays and Thursdays.  
-* Students should only attend the lecture section they have registered for, however you are welcome to join either section virtually.  
-* Zoom sessions will be recorded and made available through the Online Meetings tool in Collab.  Students are responsible for any material discussed during these sessions.
-* Guided Practice activities will take place during announced class sessions.  These can be done together in groups during class time or on your own, depending on what works best for you.  Please note that some Guided Practice activities *must* be done in teams and cannot be done solo or even in pairs.  Pay attention to the instructions each week.
+* No attendance will be taken during the lectures sessions on Tuesdays and Thursdays.  
+* We plan to record lectures most days and will make them available through Collab.
+* Students should only attend the lecture section they have registered for due to room size restrictions.  
+* Guided Practice activities will take place during announced class sessions.  Some of these will be in-class only, while some can be done outside of class time.  Also note that some Guided Practice activities *must* be done in teams and cannot be done solo or even in pairs.  Pay attention to the instructions.
 
 ### Late Policy
 {: .no_toc }
-* Late work grace periods are built into Gradescope where appropriate.  Further exceptions require professor approval.  Some assessments, such as Sprint Checks, have a built-in mechanism by which a team can earn points after a failed submission.
+* Late work grace periods are built into Gradescope where appropriate.  Further exceptions require professor approval.  
+* In general, late work will not be accepted - either for individual or group work.
 
 ### This Syllabus
 {: .no_toc }
@@ -203,13 +204,14 @@ This syllabus is to be considered a reference document that can and will be adju
 {: .no_toc }
 In this course, there will be a focus on working well together and learning about the development process. A large portion of that process involves interpersonal skills and conflict management. Students and staff are all expected to treat each other with respect.  This includes, but certainly is not limited to:
 
-* Misuse of class platforms (Discord, Piazza, YouTube comments, etc.)
-* Disrespectful language or actions to course staff or other students
+* Proper use of class platforms (Discord, Piazza, YouTube comments, etc.)
+* Respectful behavior in class (including extraneous internet browsing, social media, phone usage, etc.)
+* Respectful language or actions to course staff or other students
 * Promptness for all deadlines and class meetings
 * Quality work
-* Not working well with your partners
-* Collaborating with other teams
-* Not following University COVID regulations
+* Working well with your partners
+* Following the honor code and other collaboration policies
+* Following any University health and safety regulations
 
 Students can and will be penalized for unprofessional behavior.
 
@@ -229,7 +231,7 @@ Students are expected to be familiar with the university honor code, including t
 
 Assignments or exams where honor infractions or prohibited collaborations occur will receive a zero grade for that entire assignment or exam. Such infractions will also be submitted to the Honor Committee if that is appropriate. Students who have had prohibited collaborations may not be allowed to work with partners on remaining homeworks. 
 
-For CS3240, using code developed by previous students in the course or code written for your use by someone outside the course is not allowed and will likely be an honor violation. This does not apply to the use of publicly available frameworks and libraries, unless indicated in the assessment instructions.
+For CS 3240, using code developed by previous students in the course or code written for your use by someone outside the course is not allowed and will likely be an honor violation. This does not apply to the use of publicly available frameworks and libraries, unless indicated in the assessment instructions.
 
 In general, we expect that you will be using code, examples, and ideas from many different websites and resources for your projects.  This is allowed within reason.  Wholesale copying of an entire project or any major feature from any source (the web, another student, etc.) is definitely not allowed.  Using code snippts that you find to round out a feature is allowed.  If you ever have a question about what is or is not appropriate, ask first!
 
@@ -290,5 +292,3 @@ As your professor and as a person, know that I care about you and your well-bein
 __Q: Can we pick our own teams?__   
 A: No.  There are solid, pedagogical reasons to have randomly assigned teams.  Also, the purpose of this class is to learn about how to work together with others on a project.  If you are already friends, then that negates that part of the learning objectives.
 
-__Q: Are you adding more students to the course?__    
-A: We can handle 250 students max. 

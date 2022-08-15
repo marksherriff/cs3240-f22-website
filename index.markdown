@@ -31,8 +31,8 @@ Website: [http://www.cs.virginia.edu/~pm8fc/](http://www.cs.virginia.edu/~pm8fc/
 
 __Instructor:__ Prof. Mark Sherriff   
 Office: Rice 400   
-Office Hours: TBD  
+Office Hours: Tuesdays, 11:00 AM-12:30 PM and Wednesdays, 9:00 AM-10:30 AM    
 Email: [sherriff@virginia.edu](mailto:sherriff@virginia.edu)    
 Website: [http://marksherriff.com](http://marksherriff.com)    
 
-__Teaching Assistants:__ TBD  
+__Teaching Assistants:__ Benny Bigler-Wang, Wentao Chen, Riley Hartung, Dylan Herbig, Teagan Le, Alan Li, Andrew Nguyen, Robert Owens, Harshil Pareek, Vinny Peng, Srimanth Tangedipalli, Anjesa Terstena, Alex White, Anna Williamson, Haowen Xu, Sonya Yeprem  
