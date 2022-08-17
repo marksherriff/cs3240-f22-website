@@ -14,7 +14,7 @@ _aka Software Engineering_
 [Gradescope](https://www.gradescope.com/courses/412760){: .btn .btn-primary .mr-2  }
 [Piazza](https://piazza.com/class/l6cn064vjmpfn){: .btn .btn-primary .mr-2  }
 [Collab](https://collab.its.virginia.edu/portal/site/a013f38d-6791-4612-b308-c68d56ad3e2f){: .btn .btn-primary .mr-2  }
-[GitHub](https://github.com/uva-cs4720-f22){: .btn .btn-primary .mr-2  }
+[GitHub](https://github.com/uva-cs3240-f22){: .btn .btn-primary .mr-2  }
 
 ## Lecture Sessions
 Tuesdays and Thursdays @ 9:30 AM-10:45 AM in Rice 130 w/ Prof. Mark Sherriff    
