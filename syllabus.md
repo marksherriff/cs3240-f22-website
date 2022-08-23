@@ -60,7 +60,6 @@ We will be using Discord for the following:
 * Online office hours (professor and TA)
 * Online team meetings and discussions
 * General project / course discussion
-* In-class chat during lectures
 * Off-topic channels for general discussion
 
 We will not be using Discord for:
