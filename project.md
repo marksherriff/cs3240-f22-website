@@ -26,7 +26,7 @@ All projects must do the following, regardless of idea chosen:
 
 ## Project Options
 
-We are doing things a bit differently for Fall 2022.  This semester, we are doing a "greatest hits" of previous project ideas!  The staff will go back over the previous semesters' project ideas and we will present some options during the first few weeks of class.
+We are doing things a bit differently for Fall 2022.  This semester, we are doing a "greatest hits" of previous project ideas! 
 
 ### Project Option 1: New Lou's List
 This app will be the Lou's List we all know and love, but your own version.  The primary goal is to allow students to quickly view and search for classes.
