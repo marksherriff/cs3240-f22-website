@@ -18,14 +18,35 @@ You __must__ meet any common and project specific requirements listed below.
 All projects must do the following, regardless of idea chosen:
 
 * All projects must incorporate Google user accounts as the primary way that someone logs into the system.  You will need to use the Google account API to make this work.  There are several libraries that are built for Django to work with Google accounts with tutorials.  You should not limit logins to just @virginia.edu accounts!  (this will lock out the faculty :-( )
-* Users then must be able to do something in the system that is meaningful based on that login, such as account management, save favorites, make message posts, "liking" things, etc.  This will vary by project.  
-* All projects must incorporate at least one additional third-party API other than login for something meaningful in the app.  For example, adding a "current weather" button to an app that has nothing to do with needing the weather would not count.  Some example ideas are posted with each project idea.
-* All projects must be built using the prescribed language (Python 3), framework (Django 3), build environment (GitHub Actions CI), source control management (GitHub), and cloud hosting (Heroku).  No exceptions to these will be granted.
-* You __must__ use Postgres as your database engine for production (on Heroku) and continuous integration (on GitHub Actions).  If you use SQLite (which is the default option when you create a new Djano project), the database will be deleted _every time_ you upload a new version of your app to Heroku.  You are allowed to use SQLite for local testing so you do not have to install Postgres on your own maching, but another option is to change your `settings.py` file point to the Postgres DB on Heroku at all times.  This will allow you to use the same data set online and with every team member without any extra setup.
+* All users must have an account of some kind where they can store their personal information relevant to the app.
+* All users must be able to maintain a list of "friends" in the app, where they can view key information about the other user.  See the project options for details.
+* All projects must incorporate the SIS / Class Listing API that we will provide, which will contain (mostly) up-to-date data from SIS that mirrors what you would currently see from Lou's List.
+* All projects must be built using the prescribed language (Python 3), framework (Django 4), build environment (GitHub Actions CI), source control management (GitHub), and cloud hosting (TBD).  No exceptions to these will be granted.
+* You __must__ use the database engine for production on the cloud hosting and continuous integration (on GitHub Actions).  You are allowed to use SQLite for local testing so you do not have to install Postgres on your own maching, but another option is to change your `settings.py` file point to the Postgres DB on Heroku at all times.  
 
 ## Project Options
 
 We are doing things a bit differently for Fall 2022.  This semester, we are doing a "greatest hits" of previous project ideas!  The staff will go back over the previous semesters' project ideas and we will present some options during the first few weeks of class.
+
+### Project Option 1: New Lou's List
+This app will be the Lou's List we all know and love, but your own version.  The primary goal is to allow students to quickly view and search for classes.
+- Students must be able to view and search classes, separated into logical categories.
+- Students must be able to save a prospective schedule for a given semester.  The system should prevent time conflicts and prevent signing up for multiple sections of the same course.
+- Students should be able to "friend" other students to see their schedule and leave a comment on their schedule.
+
+### Project Option 2: Study Buddy
+This website would be used to help find study buddies in your classes a one-off "find someone for a specific class on a specific night" (i.e., not consistent study groups).
+- Students must be able to list which UVA courses they are in.
+- Students should be able to toggle which class they are looking for a study buddy for at any given time (i.e., I'm only looking for help with CS 2150 right now, but not any of my other classes)
+- Students must be able to communicate with other students within the website (i.e., just listing email or phone number isn't enough. You can either implement messaging, embed chat rooms, whatever)
+- Students must be able to schedule study times with 1 or more other students, and be able to see all upcoming "study sessions"
+
+### Project Option 3: Textbook Exchange
+Instead of selling your books back to the bookstore, post them here and try to either trade them or sell them to someone else!
+- Students must be able to list their books available along with the course/instructor based upon the SIS / Class Listing API.
+- Students must be able to search by book title, ISBN, course, or instructor.
+- Students must be able to "favorite" books they find that they may be interested in.  The favorites list should be associated with the student's account.
+- Students must be able to message / propose a trade / propose a sale with another student who has posted a textbook.
 
 ## Team Roles
 
