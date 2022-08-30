@@ -28,7 +28,7 @@ All projects must do the following, regardless of idea chosen:
 * All users must be able to maintain a list of "friends" in the app, where they can view key information about the other user.  See the project options for details.
 * All projects must incorporate the SIS / Class Listing API that we will provide, which will contain (mostly) up-to-date data from SIS that mirrors what you would currently see from Lou's List.
 * All projects must be built using the prescribed language (Python 3), framework (Django 4), build environment (GitHub Actions CI), source control management (GitHub), and cloud hosting (TBD).  No exceptions to these will be granted.
-* You __must__ use the database engine for production on the cloud hosting and continuous integration (on GitHub Actions).  You are allowed to use SQLite for local testing so you do not have to install Postgres on your own maching, but another option is to change your `settings.py` file point to the Postgres DB on Heroku at all times.  
+* You __must__ use the database engine for production on the cloud hosting and continuous integration (on GitHub Actions).  You are allowed to use SQLite for local testing so you do not have to install Postgres on your own maching, but another option is to change your `settings.py` file point to the Postgres DB in the cloud at all times.  
 
 ## Project Options
 
@@ -82,7 +82,7 @@ __Testing Manager__ - The Testing Manager is responsible for ensuring that the s
 
 _Major Artifact_: [Beta Testing Report](https://docs.google.com/document/d/1WeYzWvaci_gUgCSTPG1ZJEcyT0mrKCGk99gY1Nk7dMc/edit?usp=sharing), due near the end of the semester    
 
-__DevOps Manager__ - The DevOps Manager is the support tech for the team in a sense.  They are responsbile for the management and support of all the systems we are using in the class, namely GitHub, GitHub Actions, and Heroku.  They should be a person that is relatively comfortable tinkering with computers and settings.  The DevOps Manager does not have to have all the answers, but would be the contact person for going to the staff to get help on any particular issues.
+__DevOps Manager__ - The DevOps Manager is the support tech for the team in a sense.  They are responsbile for the management and support of all the systems we are using in the class, namely GitHub, GitHub Actions, and cloud hosting.  They should be a person that is relatively comfortable tinkering with computers and settings.  The DevOps Manager does not have to have all the answers, but would be the contact person for going to the staff to get help on any particular issues.
 
 * Reasons to be the DevOps Manager: You are familiar with the tools mentioned already, or you are really interested in learning more about them; you like to tinker with settings to get things working "just right"; you have the patience to help those on your team who might need assistance getting their environments working.
 * Reasons not to be the DevOps Manager: You do not feel comfortable helping others with technical issues; you are very unfamiliar with the tools above and would rather just have a "turnkey" solution for doing your work this semester.
@@ -154,9 +154,9 @@ __How To Submit:__ Scrum Masters should fill out a [Sprint Report](https://docs.
 
 __Due:__ September 25 or 26
 
-__Goal:__ Spend most of this sprint working as a team to elicit the full requirements for your system.  Note that while the final Requirements Document is the responsibility of the Requirements Manager, ALL TEAM MEMBERS are expected to contribute to gathering and refining the final set of requirements.  Some coding can be performed if desired, such as some design work or starting on Google Account integration.  For the project code itself, create a base Django project, put the code in GitHub, and have it hosted on Heroku.  Basically, you're taking the lessons you learned from the setup of the Django Practice Assessment and putting it to use here to show that you have a working foundation to build off of.
+__Goal:__ Spend most of this sprint working as a team to elicit the full requirements for your system.  Note that while the final Requirements Document is the responsibility of the Requirements Manager, ALL TEAM MEMBERS are expected to contribute to gathering and refining the final set of requirements.  Some coding can be performed if desired, such as some design work or starting on Google Account integration.  For the project code itself, create a base Django project, put the code in GitHub, and have it hosted in the cloud.  Basically, you're taking the lessons you learned from the setup of the Django Practice Assessment and putting it to use here to show that you have a working foundation to build off of.
 
-__Requirements:__ The team must have a working basic Django app hosted on Heroku.  The team can also show and discuss the results of their requirements elicitation document.  The Requirements Manager will receive a separate score for the actual document.  Also, teams should be able to discuss ideas for the design of their application.
+__Requirements:__ The team must have a working basic Django app hosted in the cloud.  The team can also show and discuss the results of their requirements elicitation document.  The Requirements Manager will receive a separate score for the actual document.  Also, teams should be able to discuss ideas for the design of their application.
 
 * [Example Requirements Document from Spring 2020](https://docs.google.com/document/d/1l39MWsVEX8LWcQ16Wo5-PXyaKhfm_O6j-1Uj6wj8RUU/edit?usp=sharing)
 * ["Excellent" Example from Fall 2020](https://docs.google.com/document/d/1aqeWWhA1QztrM_6iAI1PF3FjP8VTvOqCXhe5w9D9GaU/edit?usp=sharing)
@@ -165,7 +165,7 @@ __Requirements:__ The team must have a working basic Django app hosted on Heroku
 
 __TEAM EVALS:__ More information about Sprint Team Evals coming soon.
 
-__How To Submit:__ Scrum Masters should fill out a [Sprint Report](https://docs.google.com/document/d/1kS3_apbNgVBV3OoWcyJLbU66r8Hcl45fF-PHEqKH0as/edit?usp=sharing) and submit it to Gradescope BEFORE meeting with your TA so they can reference it.  Scrum Masters *must* select their team members in Gradescope when submitting so all members will earn the XP for the sprint.  The master branch of your GitHub repo should be live on Heroku.
+__How To Submit:__ Scrum Masters should fill out a [Sprint Report](https://docs.google.com/document/d/1kS3_apbNgVBV3OoWcyJLbU66r8Hcl45fF-PHEqKH0as/edit?usp=sharing) and submit it to Gradescope BEFORE meeting with your TA so they can reference it.  Scrum Masters *must* select their team members in Gradescope when submitting so all members will earn the XP for the sprint.  The master branch of your GitHub repo should be live in the cloud.
 
 ### Sprint 3: Login Integration
 
@@ -177,7 +177,7 @@ __Requirements:__ A user with a Google Account (not just a Netbadge account!) ca
 
 __TEAM EVALS:__ More information about Sprint Team Evals coming soon.
 
-__How To Submit:__ Scrum Masters should fill out a [Sprint Report](https://docs.google.com/document/d/1kS3_apbNgVBV3OoWcyJLbU66r8Hcl45fF-PHEqKH0as/edit?usp=sharing) and submit it to Gradescope BEFORE meeting with your TA so they can reference it.  Scrum Masters *must* select their team members in Gradescope when submitting so all members will earn the XP for the sprint.  The master branch of your GitHub repo should be live on Heroku.
+__How To Submit:__ Scrum Masters should fill out a [Sprint Report](https://docs.google.com/document/d/1kS3_apbNgVBV3OoWcyJLbU66r8Hcl45fF-PHEqKH0as/edit?usp=sharing) and submit it to Gradescope BEFORE meeting with your TA so they can reference it.  Scrum Masters *must* select their team members in Gradescope when submitting so all members will earn the XP for the sprint.  The master branch of your GitHub repo should be live in the cloud.
 
 ### Sprint 4: First Major Feature
 
@@ -189,7 +189,7 @@ __Requirements:__ In the opinion of the TA, significant work was accomplished th
 
 __TEAM EVALS:__ More information about Sprint Team Evals coming soon.
 
-__How To Submit:__ Scrum Masters should fill out a [Sprint Report](https://docs.google.com/document/d/1kS3_apbNgVBV3OoWcyJLbU66r8Hcl45fF-PHEqKH0as/edit?usp=sharing) and submit it to Gradescope BEFORE meeting with your TA so they can reference it.  Scrum Masters *must* select their team members in Gradescope when submitting so all members will earn the XP for the sprint.  The master branch of your GitHub repo should be live on Heroku.
+__How To Submit:__ Scrum Masters should fill out a [Sprint Report](https://docs.google.com/document/d/1kS3_apbNgVBV3OoWcyJLbU66r8Hcl45fF-PHEqKH0as/edit?usp=sharing) and submit it to Gradescope BEFORE meeting with your TA so they can reference it.  Scrum Masters *must* select their team members in Gradescope when submitting so all members will earn the XP for the sprint.  The master branch of your GitHub repo should be live in the cloud.
 
 ### Sprint 5: Next Major Feature
 
@@ -201,7 +201,7 @@ __Requirements:__ In the opinion of the TA, significant work was accomplished th
 
 __TEAM EVALS:__ More information about Sprint Team Evals coming soon.
 
-__How To Submit:__ Scrum Masters should fill out a [Sprint Report](https://docs.google.com/document/d/1kS3_apbNgVBV3OoWcyJLbU66r8Hcl45fF-PHEqKH0as/edit?usp=sharing) and submit it to Gradescope BEFORE meeting with your TA so they can reference it.  Scrum Masters *must* select their team members in Gradescope when submitting so all members will earn the XP for the sprint.  The master branch of your GitHub repo should be live on Heroku.
+__How To Submit:__ Scrum Masters should fill out a [Sprint Report](https://docs.google.com/document/d/1kS3_apbNgVBV3OoWcyJLbU66r8Hcl45fF-PHEqKH0as/edit?usp=sharing) and submit it to Gradescope BEFORE meeting with your TA so they can reference it.  Scrum Masters *must* select their team members in Gradescope when submitting so all members will earn the XP for the sprint.  The master branch of your GitHub repo should be live in the cloud.
 
 ### Sprint 6: Beta Version
 
@@ -213,7 +213,7 @@ __Requirments and Full Beta Version:__ In the opinion of the TA, you have an app
 
 __TEAM EVALS:__ More information about Sprint Team Evals coming soon.
 
-__How To Submit:__ Scrum Masters should fill out a [Sprint Report](https://docs.google.com/document/d/1kS3_apbNgVBV3OoWcyJLbU66r8Hcl45fF-PHEqKH0as/edit?usp=sharing) and submit it to Gradescope BEFORE meeting with your TA so they can reference it.  Scrum Masters *must* select their team members in Gradescope when submitting so all members will earn the XP for the sprint.  The master branch of your GitHub repo should be live on Heroku.
+__How To Submit:__ Scrum Masters should fill out a [Sprint Report](https://docs.google.com/document/d/1kS3_apbNgVBV3OoWcyJLbU66r8Hcl45fF-PHEqKH0as/edit?usp=sharing) and submit it to Gradescope BEFORE meeting with your TA so they can reference it.  Scrum Masters *must* select their team members in Gradescope when submitting so all members will earn the XP for the sprint.  The master branch of your GitHub repo should be live in the cloud.
 
 ## Final Grading Information
 
