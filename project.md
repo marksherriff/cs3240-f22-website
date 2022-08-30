@@ -171,7 +171,7 @@ __How To Submit:__ Scrum Masters should fill out a [Sprint Report](https://docs.
 
 __Due:__ October 9 and 10
 
-__Goal:__ All projects have to do something "interesting" with a user account.  Thus, it makes sense to start by making sure folks can login.
+__Goal:__ All projects must have a user account feature for students to login with.  To accomplish this, you are to integrate Google login to your app.
 
 __Requirements:__ A user with a Google Account (not just a Netbadge account!) can login to the system and the system shows in some way that that user has indeed logged in.  You cannot lock your app to just @virginia.edu accounts (otherwise the professors can't login...).  GitHub Actions CI MUST be operational with at least one test case in order to earn full XP.  As you are just getting started with testing, this is more showing us that you have the process setup and that you have some passing tests.  You do not have to have login fully tested at this point.
 
@@ -179,13 +179,13 @@ __TEAM EVALS:__ More information about Sprint Team Evals coming soon.
 
 __How To Submit:__ Scrum Masters should fill out a [Sprint Report](https://docs.google.com/document/d/1kS3_apbNgVBV3OoWcyJLbU66r8Hcl45fF-PHEqKH0as/edit?usp=sharing) and submit it to Gradescope BEFORE meeting with your TA so they can reference it.  Scrum Masters *must* select their team members in Gradescope when submitting so all members will earn the XP for the sprint.  The master branch of your GitHub repo should be live in the cloud.
 
-### Sprint 4: First Major Feature
+### Sprint 4: First Major Feature w/ SIS API
 
 __Due:__ October 23 or 24
 
-__Goal:__ Make a big push this sprint to get a major feature of your app working!  
+__Goal:__ All projects must make use of our SIS API for reading information about classes.  For this sprint, create the infrastructure for doing this, showing that you can read information and display it to the screen in a meaningful way in the context of your app (i.e. not just dumping it on the screen). 
 
-__Requirements:__ In the opinion of the TA, significant work was accomplished this week on at least one major feature of the application, such that it is visible and mostly usable in the system.  GitHub Actions CI MUST be operational with at multiple test cases in order to earn full XP.  You should be moving more toward having a robust test suite at this point.
+__Requirements:__ In the opinion of the TA, significant work was accomplished this week utilizing the SIS API, such that it is visible and mostly usable in the system.  GitHub Actions CI MUST be operational with at multiple test cases in order to earn full XP.  You should be moving more toward having a robust test suite at this point.
 
 __TEAM EVALS:__ More information about Sprint Team Evals coming soon.
 
@@ -195,9 +195,9 @@ __How To Submit:__ Scrum Masters should fill out a [Sprint Report](https://docs.
 
 __Due:__ November 6 or November 7
 
-__Goal:__ Well... your app needs to do more than just one thing... right? 
+__Goal:__ Move forward with the next major features of your application, showing that you are making significant progress.  Your app should be "functional" at this point, such that a user can login and use some of the basic features.
 
-__Requirements:__ In the opinion of the TA, significant work was accomplished this week on another major feature of the application, such that it is visible and mostly usable in the system.  GitHub Actions should still be working.
+__Requirements:__ In the opinion of the TA, significant work was accomplished this week other major features of the application, such that it is visible and mostly usable in the system.  GitHub Actions should still be working.
 
 __TEAM EVALS:__ More information about Sprint Team Evals coming soon.
 
