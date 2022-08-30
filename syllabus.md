@@ -25,7 +25,7 @@ Tuesdays and Thursdays @ 3:30 PM-4:45 PM in Rice 130 w/ Prof. Will McBurney
 Individual Team Meetings with TAs on Sundays or Mondays (Determined by Teams + TA) 
 
 ## Staff Information
-__Instructor:__ Prof. Will McBurney    
+__Instructor:__ Prof. Awesome McCoolPants   
 Office: Rice 404  
 Office Hours: Mondays, 1:30 PM-3:00 PM and Wednesdays, 10:30 AM-12:00 PM - Check calendar to confirm hours    
 Email: [pm8fc@virginia.edu](pm8fc@virginia.edu)      
