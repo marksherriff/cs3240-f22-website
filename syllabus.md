@@ -25,9 +25,9 @@ Tuesdays and Thursdays @ 3:30 PM-4:45 PM in Rice 130 w/ Prof. Will McBurney
 Individual Team Meetings with TAs on Sundays or Mondays (Determined by Teams + TA) 
 
 ## Staff Information
-__Instructor:__ Prof. Will McBurney    
+__Instructor:__ Prof. Will McBurney   
 Office: Rice 404  
-Office Hours: *Office Hours: Mondays, 1:30 PM-3:00 PM and Wednesdays, 10:30 AM-12:00 PM - Check calendar to confirm hours    
+Office Hours: Mondays, 1:30 PM-3:00 PM and Wednesdays, 10:30 AM-12:00 PM - Check calendar to confirm hours    
 Email: [pm8fc@virginia.edu](pm8fc@virginia.edu)      
 Website: [http://www.cs.virginia.edu/~pm8fc/](http://www.cs.virginia.edu/~pm8fc/) 
 
@@ -37,7 +37,7 @@ Office Hours: Tuesdays, 11:00 AM-12:30 PM and Wednesdays, 9:00 AM-10:30 AM
 Email: [sherriff@virginia.edu](mailto:sherriff@virginia.edu)    
 Website: [http://marksherriff.com](http://marksherriff.com)    
 
-__Teaching Assistants:__ Benny Bigler-Wang, Wentao Chen, James Connors, Riley Hartung, Dylan Herbig, Teagan Le, Alan Li, Andrew Nguyen, Robert Owens, Harshil Pareek, Vinny Peng, Srimanth Tangedipalli, Anjesa Terstena, Alex White, Anna Williamson, Haowen Xu, Sonya Yeprem  
+__Teaching Assistants:__ Benny Bigler-Wang, Wentao Chen, Jimmy Connors, Riley Hartung, Dylan Herbig, Teagan Le, Alan Li, Andrew Nguyen, Robert Owens, Harshil Pareek, Vinny Peng, Srimanth Tangedipalli, Anjesa Terstena, Alex White, Anna Williamson, Haowen Xu, Sonya Yeprem  
 
 ## Communication and Logistics
 
