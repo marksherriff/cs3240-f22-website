@@ -191,6 +191,13 @@ We will utilize a positive-reinforcement grading policy in this course. As the p
 * There are 3 total quizzes, which will be taken in-person during lecture. Students can earn back up to 100 XP from missed quiz questions on the final exam.
 * There are 6 sprints during the project.  At each sprint check, the TAs will determine if your team has met the requirements for the project up to that point.  
 
+### Final Exam and Project Demos
+{: .no_toc }
+
+__Final Exam:__ The final exam in this course is an opportunity to show mastery of material that was previously missed on earlier quizzes.  If a student has earned the maximum number of points on the three quizzes, they have a set of scores they are comfortable with, or if they already have an A in the course, the student does not (and should not) take the final exam.  If a student wishes to take the final exam, they can earn back up to 100 XP total toward the available 300 XP from quizzes.  We will create a custom final exam for each student based upon only the questions the student missed on the previous three quizzes.  While it is possible to lose points on the final exam, this is a relatively rare occurance, usually stemming from wild guessing on questions.  The final exam for this course will take place on Saturday, December 10, in Rice 130.  Students can come to either the morning or afternoon session, regardless of enrolled section.
+
+__Project Demos:__ Student teams will demo their final project to either Prof. McBurney or Prof. Sherriff in the days following the last day of class on December 7, 8, and 9.  All students are expected to attend the demo for their team.  Demos should only last around 20-30 minutes.  Students do not need to prepare anything for the demo (e.g. no slides, no presentation, etc.).  The team will walk the professor through the app and will answer various questions about its design and implementation.
+
 ## Class Management
 
 ### Project Groups
