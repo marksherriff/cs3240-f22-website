@@ -146,7 +146,7 @@ __Goal:__ Have your initial meeting as a team and determine who will be doing wh
 
 __Requirements:__  Complete the Team Declaration form above ASAP.  Initialize your GitHub repo and have all team members join.
 
-__TEAM EVALS:__ More information about Sprint Team Evals coming soon.
+__TEAM EVALS:__ No Team Evals this week.
 
 __How To Submit:__ Scrum Masters should fill out a [Sprint Report](https://docs.google.com/document/d/1kS3_apbNgVBV3OoWcyJLbU66r8Hcl45fF-PHEqKH0as/edit?usp=sharing) and submit it to Gradescope BEFORE meeting with your TA so they can reference it.  Scrum Masters *must* select their team members in Gradescope when submitting so all members will earn the XP for the sprint.  (No, you won't have much to report this week, but think about what's coming up and discuss that.)
 
@@ -156,7 +156,7 @@ __Due:__ September 25 or 26
 
 __Goal:__ Spend most of this sprint working as a team to elicit the full requirements for your system.  Note that while the final Requirements Document is the responsibility of the Requirements Manager, ALL TEAM MEMBERS are expected to contribute to gathering and refining the final set of requirements.  Some coding can be performed if desired, such as some design work or starting on Google Account integration.  For the project code itself, create a base Django project, put the code in GitHub, and have it hosted in the cloud.  Basically, you're taking the lessons you learned from the setup of the Django Practice Assessment and putting it to use here to show that you have a working foundation to build off of.
 
-__Requirements:__ The team must have a working basic Django app hosted in the cloud.  The team can also show and discuss the results of their requirements elicitation document.  The Requirements Manager will receive a separate score for the actual document.  Also, teams should be able to discuss ideas for the design of their application.
+__Requirements:__ The team must have a working basic Django app hosted in the cloud.  The team can also show and discuss the progress and initial results of their requirements elicitation activity.  The team _does not_ need to have a finalized requirements document at this point, but must be able to show that they have started the elicitation process and have at least some data.  The Requirements Manager will receive a separate score for the actual document.  Also, teams should be able to discuss ideas for the design of their application.
 
 * [Example Requirements Document from Spring 2020](https://docs.google.com/document/d/1l39MWsVEX8LWcQ16Wo5-PXyaKhfm_O6j-1Uj6wj8RUU/edit?usp=sharing)
 * ["Excellent" Example from Fall 2020](https://docs.google.com/document/d/1aqeWWhA1QztrM_6iAI1PF3FjP8VTvOqCXhe5w9D9GaU/edit?usp=sharing)
