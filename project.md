@@ -163,7 +163,7 @@ __Requirements:__ The team must have a working basic Django app hosted in the cl
 * ["Great" Example from Fall 2020](https://docs.google.com/document/d/12a8MTkqiUZbnDIs-xRfmCQUb8ozs3jHamdcwp6fuqSc/edit?usp=sharing)
 * ["Good" Example from Fall 2020](https://docs.google.com/document/d/1RxUBAEFjk0HpQ1aFOOX830nenFBX_Idao3vRVBYop1A/edit?usp=sharing)
 
-__TEAM EVALS:__ More information about Sprint Team Evals coming soon.
+__TEAM EVALS:__ At the end of Sprints 2-6 and at the end of the semester, you will need to fill out an evaluation for _each member_ of your team! You can find the evaluation form her: [CS 3240 - F22 - Student Team Sprint Evaluations](https://docs.google.com/forms/d/e/1FAIpQLScHXBZy1i5eAWs7w_2GCmM_vX3VCm8Lgq3Lm0hXyGrnB2uchg/viewform?usp=sf_link)
 
 __How To Submit:__ Scrum Masters should fill out a [Sprint Report](https://docs.google.com/document/d/1kS3_apbNgVBV3OoWcyJLbU66r8Hcl45fF-PHEqKH0as/edit?usp=sharing) and submit it to Gradescope BEFORE meeting with your TA so they can reference it.  Scrum Masters *must* select their team members in Gradescope when submitting so all members will earn the XP for the sprint.  The master branch of your GitHub repo should be live in the cloud.
 
@@ -175,7 +175,7 @@ __Goal:__ All projects must have a user account feature for students to login wi
 
 __Requirements:__ A user with a Google Account (not just a Netbadge account!) can login to the system and the system shows in some way that that user has indeed logged in.  You cannot lock your app to just @virginia.edu accounts (otherwise the professors can't login...).  GitHub Actions CI MUST be operational with at least one test case in order to earn full XP.  As you are just getting started with testing, this is more showing us that you have the process setup and that you have some passing tests.  You do not have to have login fully tested at this point.
 
-__TEAM EVALS:__ More information about Sprint Team Evals coming soon.
+__TEAM EVALS:__ At the end of Sprints 2-6 and at the end of the semester, you will need to fill out an evaluation for _each member_ of your team! You can find the evaluation form her: [CS 3240 - F22 - Student Team Sprint Evaluations](https://docs.google.com/forms/d/e/1FAIpQLScHXBZy1i5eAWs7w_2GCmM_vX3VCm8Lgq3Lm0hXyGrnB2uchg/viewform?usp=sf_link)
 
 __How To Submit:__ Scrum Masters should fill out a [Sprint Report](https://docs.google.com/document/d/1kS3_apbNgVBV3OoWcyJLbU66r8Hcl45fF-PHEqKH0as/edit?usp=sharing) and submit it to Gradescope BEFORE meeting with your TA so they can reference it.  Scrum Masters *must* select their team members in Gradescope when submitting so all members will earn the XP for the sprint.  The master branch of your GitHub repo should be live in the cloud.
 
@@ -187,7 +187,7 @@ __Goal:__ All projects must make use of our SIS API for reading information abou
 
 __Requirements:__ In the opinion of the TA, significant work was accomplished this week utilizing the SIS API, such that it is visible and mostly usable in the system.  GitHub Actions CI MUST be operational with at multiple test cases in order to earn full XP.  You should be moving more toward having a robust test suite at this point.
 
-__TEAM EVALS:__ More information about Sprint Team Evals coming soon.
+__TEAM EVALS:__ At the end of Sprints 2-6 and at the end of the semester, you will need to fill out an evaluation for _each member_ of your team! You can find the evaluation form her: [CS 3240 - F22 - Student Team Sprint Evaluations](https://docs.google.com/forms/d/e/1FAIpQLScHXBZy1i5eAWs7w_2GCmM_vX3VCm8Lgq3Lm0hXyGrnB2uchg/viewform?usp=sf_link)
 
 __How To Submit:__ Scrum Masters should fill out a [Sprint Report](https://docs.google.com/document/d/1kS3_apbNgVBV3OoWcyJLbU66r8Hcl45fF-PHEqKH0as/edit?usp=sharing) and submit it to Gradescope BEFORE meeting with your TA so they can reference it.  Scrum Masters *must* select their team members in Gradescope when submitting so all members will earn the XP for the sprint.  The master branch of your GitHub repo should be live in the cloud.
 
@@ -199,7 +199,7 @@ __Goal:__ Move forward with the next major features of your application, showing
 
 __Requirements:__ In the opinion of the TA, significant work was accomplished this week other major features of the application, such that it is visible and mostly usable in the system.  GitHub Actions should still be working.
 
-__TEAM EVALS:__ More information about Sprint Team Evals coming soon.
+__TEAM EVALS:__ At the end of Sprints 2-6 and at the end of the semester, you will need to fill out an evaluation for _each member_ of your team! You can find the evaluation form her: [CS 3240 - F22 - Student Team Sprint Evaluations](https://docs.google.com/forms/d/e/1FAIpQLScHXBZy1i5eAWs7w_2GCmM_vX3VCm8Lgq3Lm0hXyGrnB2uchg/viewform?usp=sf_link)
 
 __How To Submit:__ Scrum Masters should fill out a [Sprint Report](https://docs.google.com/document/d/1kS3_apbNgVBV3OoWcyJLbU66r8Hcl45fF-PHEqKH0as/edit?usp=sharing) and submit it to Gradescope BEFORE meeting with your TA so they can reference it.  Scrum Masters *must* select their team members in Gradescope when submitting so all members will earn the XP for the sprint.  The master branch of your GitHub repo should be live in the cloud.
 
@@ -211,7 +211,7 @@ __Goal:__ After Sprint 6 is complete, you are going to have other students test 
 
 __Requirments and Full Beta Version:__ In the opinion of the TA, you have an app that is ready for other students to test out (e.g. it doesn't crash, it looks reasonably good, it has most features, etc.).  You will earn 25 XP for the sprint check plus 100 XP as the first half of your overall project score of 250 XP (basically, if you have a working app at this point, we know your final project grade will be at least 100/250 XP, so we can give you those points now).
 
-__TEAM EVALS:__ More information about Sprint Team Evals coming soon.
+__TEAM EVALS:__ At the end of Sprints 2-6 and at the end of the semester, you will need to fill out an evaluation for _each member_ of your team! You can find the evaluation form her: [CS 3240 - F22 - Student Team Sprint Evaluations](https://docs.google.com/forms/d/e/1FAIpQLScHXBZy1i5eAWs7w_2GCmM_vX3VCm8Lgq3Lm0hXyGrnB2uchg/viewform?usp=sf_link)
 
 __How To Submit:__ Scrum Masters should fill out a [Sprint Report](https://docs.google.com/document/d/1kS3_apbNgVBV3OoWcyJLbU66r8Hcl45fF-PHEqKH0as/edit?usp=sharing) and submit it to Gradescope BEFORE meeting with your TA so they can reference it.  Scrum Masters *must* select their team members in Gradescope when submitting so all members will earn the XP for the sprint.  The master branch of your GitHub repo should be live in the cloud.
 
