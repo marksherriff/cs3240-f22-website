@@ -165,7 +165,7 @@ __Requirements:__ The team must have a working basic Django app hosted on Heroku
 
 __TEAM EVALS:__ At the end of Sprints 2-6 and at the end of the semester, you will need to fill out an evaluation for _each member_ of your team! You can find the evaluation form her: [CS 3240 - F22 - Student Team Sprint Evaluations](https://docs.google.com/forms/d/e/1FAIpQLScHXBZy1i5eAWs7w_2GCmM_vX3VCm8Lgq3Lm0hXyGrnB2uchg/viewform?usp=sf_link)
 
-__How To Submit:__ Scrum Masters should fill out a [Sprint Report](https://docs.google.com/document/d/1kS3_apbNgVBV3OoWcyJLbU66r8Hcl45fF-PHEqKH0as/edit?usp=sharing) and submit it to Gradescope BEFORE meeting with your TA so they can reference it.  Scrum Masters *must* select their team members in Gradescope when submitting so all members will earn the XP for the sprint.  The master branch of your GitHub repo should be live on Heroku.
+__How To Submit:__ Scrum Masters should fill out a [Sprint Report](https://docs.google.com/document/d/1kS3_apbNgVBV3OoWcyJLbU66r8Hcl45fF-PHEqKH0as/edit?usp=sharing) and submit it to Gradescope BEFORE meeting with your TA so they can reference it.  Scrum Masters *must* select their team members in Gradescope when submitting so all members will earn the XP for the sprint.  The main branch of your GitHub repo should be live on Heroku.
 
 ### Sprint 3: Login Integration
 
@@ -177,7 +177,7 @@ __Requirements:__ A user with a Google Account (not just a Netbadge account!) ca
 
 __TEAM EVALS:__ At the end of Sprints 2-6 and at the end of the semester, you will need to fill out an evaluation for _each member_ of your team! You can find the evaluation form her: [CS 3240 - F22 - Student Team Sprint Evaluations](https://docs.google.com/forms/d/e/1FAIpQLScHXBZy1i5eAWs7w_2GCmM_vX3VCm8Lgq3Lm0hXyGrnB2uchg/viewform?usp=sf_link)
 
-__How To Submit:__ Scrum Masters should fill out a [Sprint Report](https://docs.google.com/document/d/1kS3_apbNgVBV3OoWcyJLbU66r8Hcl45fF-PHEqKH0as/edit?usp=sharing) and submit it to Gradescope BEFORE meeting with your TA so they can reference it.  Scrum Masters *must* select their team members in Gradescope when submitting so all members will earn the XP for the sprint.  The master branch of your GitHub repo should be live on Heroku.
+__How To Submit:__ Scrum Masters should fill out a [Sprint Report](https://docs.google.com/document/d/1kS3_apbNgVBV3OoWcyJLbU66r8Hcl45fF-PHEqKH0as/edit?usp=sharing) and submit it to Gradescope BEFORE meeting with your TA so they can reference it.  Scrum Masters *must* select their team members in Gradescope when submitting so all members will earn the XP for the sprint.  The main branch of your GitHub repo should be live on Heroku.
 
 ### Sprint 4: First Major Feature w/ SIS API
 
@@ -189,7 +189,7 @@ __Requirements:__ In the opinion of the TA, significant work was accomplished th
 
 __TEAM EVALS:__ At the end of Sprints 2-6 and at the end of the semester, you will need to fill out an evaluation for _each member_ of your team! You can find the evaluation form her: [CS 3240 - F22 - Student Team Sprint Evaluations](https://docs.google.com/forms/d/e/1FAIpQLScHXBZy1i5eAWs7w_2GCmM_vX3VCm8Lgq3Lm0hXyGrnB2uchg/viewform?usp=sf_link)
 
-__How To Submit:__ Scrum Masters should fill out a [Sprint Report](https://docs.google.com/document/d/1kS3_apbNgVBV3OoWcyJLbU66r8Hcl45fF-PHEqKH0as/edit?usp=sharing) and submit it to Gradescope BEFORE meeting with your TA so they can reference it.  Scrum Masters *must* select their team members in Gradescope when submitting so all members will earn the XP for the sprint.  The master branch of your GitHub repo should be live on Heroku.
+__How To Submit:__ Scrum Masters should fill out a [Sprint Report](https://docs.google.com/document/d/1kS3_apbNgVBV3OoWcyJLbU66r8Hcl45fF-PHEqKH0as/edit?usp=sharing) and submit it to Gradescope BEFORE meeting with your TA so they can reference it.  Scrum Masters *must* select their team members in Gradescope when submitting so all members will earn the XP for the sprint.  The main branch of your GitHub repo should be live on Heroku.
 
 ### Sprint 5: Next Major Feature
 
@@ -201,7 +201,7 @@ __Requirements:__ In the opinion of the TA, significant work was accomplished th
 
 __TEAM EVALS:__ At the end of Sprints 2-6 and at the end of the semester, you will need to fill out an evaluation for _each member_ of your team! You can find the evaluation form her: [CS 3240 - F22 - Student Team Sprint Evaluations](https://docs.google.com/forms/d/e/1FAIpQLScHXBZy1i5eAWs7w_2GCmM_vX3VCm8Lgq3Lm0hXyGrnB2uchg/viewform?usp=sf_link)
 
-__How To Submit:__ Scrum Masters should fill out a [Sprint Report](https://docs.google.com/document/d/1kS3_apbNgVBV3OoWcyJLbU66r8Hcl45fF-PHEqKH0as/edit?usp=sharing) and submit it to Gradescope BEFORE meeting with your TA so they can reference it.  Scrum Masters *must* select their team members in Gradescope when submitting so all members will earn the XP for the sprint.  The master branch of your GitHub repo should be live on Heroku.
+__How To Submit:__ Scrum Masters should fill out a [Sprint Report](https://docs.google.com/document/d/1kS3_apbNgVBV3OoWcyJLbU66r8Hcl45fF-PHEqKH0as/edit?usp=sharing) and submit it to Gradescope BEFORE meeting with your TA so they can reference it.  Scrum Masters *must* select their team members in Gradescope when submitting so all members will earn the XP for the sprint.  The main branch of your GitHub repo should be live on Heroku.
 
 ### Sprint 6: Beta Version
 
@@ -213,7 +213,7 @@ __Requirments and Full Beta Version:__ In the opinion of the TA, you have an app
 
 __TEAM EVALS:__ At the end of Sprints 2-6 and at the end of the semester, you will need to fill out an evaluation for _each member_ of your team! You can find the evaluation form her: [CS 3240 - F22 - Student Team Sprint Evaluations](https://docs.google.com/forms/d/e/1FAIpQLScHXBZy1i5eAWs7w_2GCmM_vX3VCm8Lgq3Lm0hXyGrnB2uchg/viewform?usp=sf_link)
 
-__How To Submit:__ Scrum Masters should fill out a [Sprint Report](https://docs.google.com/document/d/1kS3_apbNgVBV3OoWcyJLbU66r8Hcl45fF-PHEqKH0as/edit?usp=sharing) and submit it to Gradescope BEFORE meeting with your TA so they can reference it.  Scrum Masters *must* select their team members in Gradescope when submitting so all members will earn the XP for the sprint.  The master branch of your GitHub repo should be live on Heroku.
+__How To Submit:__ Scrum Masters should fill out a [Sprint Report](https://docs.google.com/document/d/1kS3_apbNgVBV3OoWcyJLbU66r8Hcl45fF-PHEqKH0as/edit?usp=sharing) and submit it to Gradescope BEFORE meeting with your TA so they can reference it.  Scrum Masters *must* select their team members in Gradescope when submitting so all members will earn the XP for the sprint.  The main branch of your GitHub repo should be live on Heroku.
 
 ## Final Grading Information
 
