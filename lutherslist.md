@@ -14,3 +14,9 @@ nav_order: 6
 
 * Browser View - [http://luthers-list.herokuapp.com/api/dept/CS](http://luthers-list.herokuapp.com/api/dept/CS) - Replace CS with any valid department mnemonic
 * Raw JSON - [http://luthers-list.herokuapp.com/api/dept/CS?format=json](http://luthers-list.herokuapp.com/api/dept/CS?format=json) - Replace CS with any valid department mnemonic
+
+## Expected Additions
+
+* Get all department mnemonics
+
+_If you have API requests, post them on Piazza with the `luthers-list` folder._
