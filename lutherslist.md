@@ -22,6 +22,6 @@ nav_order: 6
 
 ## Expected Additions
 
-* Get all department mnemonics
+* Get all faculty names and email addresses
 
 _If you have API requests, post them on Piazza with the `luthers-list` folder._
